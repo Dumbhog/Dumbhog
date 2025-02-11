@@ -6,6 +6,8 @@ Hello, I'm Dumbhog.
 
 🧶🧡 I'm currently learning [Svelte](https://svelte.dev)
 
+![Dumbhog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbhog&theme=transparent)
+
 ## My favourite coding projects:
 
 ♠️♥️ [BlackJack](https://github.com/Dumbhog/21-s-Blackjack)
@@ -14,7 +16,7 @@ Hello, I'm Dumbhog.
 
 ## Find my reshade presets at:
 
-[Nexus Mods](https://nexusmods.com/users/Dumbhog)
+[Nexus Mods](https://next.nexusmods.com/profile/Dumbhog)
 
 <br>
 
